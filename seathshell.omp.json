@@ -55,7 +55,7 @@
           "template": " \ue61e \ue61d cmake {{ .Full }} "
         },
         {
-          "background": "#91ff00",
+          "background": "#dc96ff",
           "background_templates": [
             "{{ if or (.Working.Changed) (.Staging.Changed) }}#22DD22{{ end }}",
             "{{ if and (gt .Ahead 0) (gt .Behind 0) }}#BB88FF{{ end }}",
@@ -81,7 +81,7 @@
       "alignment": "right",
       "segments": [
         {
-          "background": "#91ff00",
+          "background": "#00C7FC",
           "background_templates": ["{{ if gt .Code 0 }}#E44141{{ end }}"],
           "foreground": "#414141",
           "foreground_templates": ["{{ if gt .Code 0 }}#D6DEEB{{ end }}"],
