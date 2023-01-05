@@ -55,12 +55,12 @@
           "template": " \ue61e \ue61d cmake {{ .Full }} "
         },
         {
-          "background": "#4797ff",
+          "background": "#0095ff",
           "background_templates": [
             "{{ if or (.Working.Changed) (.Staging.Changed) }}#22DD22{{ end }}",
             "{{ if and (gt .Ahead 0) (gt .Behind 0) }}#BB88FF{{ end }}",
-            "{{ if gt .Ahead 0 }}#af75ff{{ end }}",
-            "{{ if gt .Behind 0 }}#a98cff){{ end }}"
+            "{{ if gt .Ahead 0 }}#a98cff{{ end }}",
+            "{{ if gt .Behind 0 }}#00AAEE){{ end }}"
           ],
           "foreground": "#011627",
           "powerline_symbol": "\ue0b0",
