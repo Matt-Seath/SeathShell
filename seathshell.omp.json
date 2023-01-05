@@ -81,7 +81,7 @@
       "alignment": "right",
       "segments": [
         {
-          "background": "#00C7FC",
+          "background": "#22DD22",
           "background_templates": ["{{ if gt .Code 0 }}#E44141{{ end }}"],
           "foreground": "#414141",
           "foreground_templates": ["{{ if gt .Code 0 }}#D6DEEB{{ end }}"],
