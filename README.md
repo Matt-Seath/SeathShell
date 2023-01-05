@@ -3,7 +3,7 @@
 SeathShell is a custom "oh-my-posh" theme for your terminal prompt. "Oh My Posh" is a custom prompt engine that allows you to easily adjust the prompt string with a function or variable.
 <br><br> 
 (See SeathShell ScreenShot) <br>
-![SeathShellScreenShot](https://github.com/Matt-Seath/SeathShell/blob/main/screenshots/seathshell_05.png?raw=true)
+![SeathShellScreenShot](https://github.com/Matt-Seath/SeathShell/blob/main/screenshots/seathshell_01.png?raw=true)
 
 
 ## Installation
