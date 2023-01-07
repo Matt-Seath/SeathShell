@@ -131,7 +131,7 @@
           "type": "python",
           "style": "plain",
           "foreground": "#FFFFFF",
-          "template": "<#33FF88>🗹</>"
+          "template": "<#33FF88> 🗹</>"
         },
         {
           "type": "python",
