@@ -185,11 +185,7 @@
     }
   ],
   "osc99": true,
-  "transient_prompt": {
-    "background": "transparent",
-    "foreground": "#FEF5ED",
-    "template": "\ue285 "
-  },
+
   "secondary_prompt": {
     "background": "transparent",
     "foreground": "#D6DEEB",
